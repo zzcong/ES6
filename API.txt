@@ -23,5 +23,5 @@
     " `hello world` " -- 两个反印号
     使用：可以换行，可以引入变量
     引入变量：'${}'
-6.  好de 
+6.  好de wo de sublime text 3
 
